@@ -1,8 +1,8 @@
 
 
-CREATE DATABASE burgers_db;
+CREATE DATABASE items_db;
 
-USE burgers_db;
+USE items_db;
 
 CREATE TABLE burgers(
     id INT AUTO_INCREMENT,
